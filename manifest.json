@@ -1,9 +1,9 @@
 {
-  "name": "Intickets script",
+  "name": "Intickets script BETA",
   "version": "1.0",
   "manifest_version": 3,
   "minimum_chrome_version": "120",
-  "description": "Uses the chrome.userScripts API to inject JavaScript into web pages.",
+  "description": "Uses the chrome.userScripts API to inject JavaScript into web pages. THIS EXTENSION IS FOR BETA TESTING",
   "background": {
     "service_worker": "sw.js"
   },
